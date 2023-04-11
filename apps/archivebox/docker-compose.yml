@@ -14,7 +14,7 @@ services:
     archivebox:
         container_name: archivebox
         # build: .                              # for developers working on archivebox
-        image: archivebox/archivebox:0.6.3}
+        image: archivebox/archivebox:0.6.3
         command: server --quick-init 0.0.0.0:8000
         ports:
             - ${APP_PORT}:8000
