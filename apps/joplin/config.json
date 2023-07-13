@@ -5,8 +5,8 @@
   "exposable": true,
   "port": 8099,
   "id": "joplin",
-  "tipi_version": 5,
-  "version": "2.10.11",
+  "tipi_version": 7,
+  "version": "2.11.2",
   "categories": [
     "utilities"
   ],
